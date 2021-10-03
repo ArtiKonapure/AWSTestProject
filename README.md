@@ -1,5 +1,7 @@
 # SAM DynamoDB Application for Managing Orders
 
+added new api (get candidate list)
+
 This is a sample application to demonstrate how to build an application on DynamoDB using the
 DynamoDBMapper ORM framework to map Order items in a DynamoDB table to a RESTful API for order
 management.
